@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FriendRemover",
+  "name": "Hypixel Friend Remover",
+  "description": "This mod will remove ALL your friends on hypixel automatically.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["skyerzz"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
